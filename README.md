@@ -1,6 +1,5 @@
 # Big Data Final Project — Simple Lambda Architecture
 
-**Repository:** Final work for Big Data course, MTS School of Data Analysts  
 **Environment:** executed on the course YARN/Hadoop cluster using the supplied Jupyter notebook template.
 
 ## Project overview
